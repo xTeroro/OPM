@@ -1,8 +1,8 @@
-# OPM Beta V2
+# OPM Beta V3
 
 Beta Warning: The program is still W.I.P. meaning the old manager files might not be compatible with the latest app!
 
-V2: Added more info for each of the passwords.
+V3: Stylisted the UI
 
 The Offline Password Manager or OPM for short is a fully offline and custom encrypted password manager and generator.
 
