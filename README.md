@@ -6,7 +6,7 @@ V2: Added more info for each of the passwords.
 
 The Offline Password Manager or OPM for short is a fully offline and custom encrypted password manager and generator.
 
-This manager is jam-packed with features like:
+This manager is jam-packed with features like:<br />
 	1. Generating passwords<br />
 	2. Importing Passwords<br />
 	3. Advanced Encryption<br />
