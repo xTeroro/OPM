@@ -1,0 +1,12 @@
+Beta V4 - Save Files Update:
+
+Themed Updates:
+    1. Started to log the Update History.
+    2. You have the option to create multiple save-files.
+    3. You can now delete save-files in app.
+    4. You can open in app multiple save-files so you don't need to restart the app.
+    5. You can now merge save-files.
+
+Bug Fixes:
+    1. Fixed index bug after modifying a password.
+    2. Fixed the bug where the app would crash when you try to open a save-file.
