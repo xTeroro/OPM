@@ -10,3 +10,13 @@ Themed Updates:
 Bug Fixes:
     1. Fixed index bug after modifying a password.
     2. Fixed the bug where the app would crash when you try to open a save-file.
+
+Beta V5 - Settings Update:
+
+Themed Updates:
+    1. You can now change the color of the text
+    2. You can now set to see the save files names from your folder
+    3. Updates some text to look better
+
+Bug Fixes:
+    None
